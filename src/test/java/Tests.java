@@ -23,6 +23,12 @@ import static org.junit.Assert.assertEquals;
         public void testSub() {
             assertEquals(3, calc.sub(4, 3));
         }
+        @Test
+        //Test case by Bhavya Yaddula
+        public void testDiv() {
+            assertEquals(1, calc.div(4, 4));
+        }
+
     }
 
 
