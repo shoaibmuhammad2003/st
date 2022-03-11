@@ -21,7 +21,7 @@ import static org.junit.Assert.assertEquals;
         @Test
         //Test case by Trayi Chaganti
         public void testSub() {
-            assertEquals(3, calc.sub(6, 3));
+            assertEquals(2, calc.sub(6, 4));
         }
     }
 
