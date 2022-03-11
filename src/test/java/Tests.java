@@ -17,5 +17,12 @@ import static org.junit.Assert.assertEquals;
         public void testAdd() {
             assertEquals(10, calc.add(7, 3));
         }
+
+        @Test
+        //Test case by Trayi Chaganti
+        public void testSub() {
+            assertEquals(10, calc.add(7, 3));
+        }
     }
+
 
