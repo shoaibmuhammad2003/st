@@ -26,7 +26,7 @@ import static org.junit.Assert.assertEquals;
         @Test
         //Test case by Bhavya Yaddula
         public void testDiv() {
-            assertEquals(1, calc.div(7, 7));
+            assertEquals(1, calc.div(9, 9));
         }
 
     }
